@@ -99,6 +99,39 @@
                               }
                           </style><style type="text/css">
                               
+        
+                              .p_insertion:before {
+                                content:'click here to add';
+                                color: white;
+                              }  
+                              
+                              .p_insertion {
+                                min-height:80px !important; 
+                                height:80px !important; 
+                                border-style: none; 
+                                background-color: white !important;
+                                color: white;
+                                text-align: center; 
+                                pointer-events: none;
+                              }
+
+                              .editable:focus {
+                                outline: none !important;
+                              }
+
+                              .editable:hover {
+                                cursor: pointer;
+                              }
+
+                              .structure > * * {
+                                pointer-events: none !important;
+                              }
+
+                              .h-100 {
+                                max-height:80%;
+                              }
+                          </style><style type="text/css">
+                              
                               .p_insertion:before {
                                 content:'click here to add';
                                 color: white;
@@ -307,7 +340,7 @@
           <h4 class="text-primary">Connect</h4>
           <p class="mb-5">In-app chat panel 24/7 active. <br>The support you need, right there.</p>
         </div>
-        <div class="my-3 col-md-4 d-none d-lg-block"> <img class="img-fluid d-block mx-auto animate-in-down animate-in-done editable" src="assets/app/iphone_features_light.png" width="300"> </div>
+        <div class="my-3 col-md-4 d-none d-lg-block"> <img class="img-fluid d-block mx-auto animate-in-down animate-in-done editable" src="/assets/styleguide/cover_1.jpg" width="300"> </div>
         <div class="align-self-center text-md-left text-center col-lg-4 col-md-6 editable">
           <h4 class="text-primary">Battery-friendly</h4>
           <p class="mb-5">Non consuming background operation for longer mobile life</p>
