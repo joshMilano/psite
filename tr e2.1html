@@ -1,0 +1,361 @@
+<html><head><style type="text/css">
+                              
+        
+                              .p_insertion:before {
+                                content:'click here to add';
+                                color: white;
+                              }  
+                              
+                              .p_insertion {
+                                min-height:80px !important; 
+                                height:80px !important; 
+                                border-style: none; 
+                                background-color: white !important;
+                                color: white;
+                                text-align: center; 
+                                pointer-events: none;
+                              }
+
+                              .editable:focus {
+                                outline: none !important;
+                              }
+
+                              .editable:hover {
+                                cursor: pointer;
+                              }
+
+                              .structure > * * {
+                                pointer-events: none !important;
+                              }
+
+                              .h-100 {
+                                max-height:80%;
+                              }
+                          </style><style type="text/css">
+                              
+        
+                              .p_insertion:before {
+                                content:'click here to add';
+                                color: white;
+                              }  
+                              
+                              .p_insertion {
+                                min-height:80px !important; 
+                                height:80px !important; 
+                                border-style: none; 
+                                background-color: white !important;
+                                color: white;
+                                text-align: center; 
+                                pointer-events: none;
+                              }
+
+                              .editable:focus {
+                                outline: none !important;
+                              }
+
+                              .editable:hover {
+                                cursor: pointer;
+                              }
+
+                              .structure > * * {
+                                pointer-events: none !important;
+                              }
+
+                              .h-100 {
+                                max-height:80%;
+                              }
+                          </style><style type="text/css">
+                              
+        
+                              .p_insertion:before {
+                                content:'click here to add';
+                                color: white;
+                              }  
+                              
+                              .p_insertion {
+                                min-height:80px !important; 
+                                height:80px !important; 
+                                border-style: none; 
+                                background-color: white !important;
+                                color: white;
+                                text-align: center; 
+                                pointer-events: none;
+                              }
+
+                              .editable:focus {
+                                outline: none !important;
+                              }
+
+                              .editable:hover {
+                                cursor: pointer;
+                              }
+
+                              .structure > * * {
+                                pointer-events: none !important;
+                              }
+
+                              .h-100 {
+                                max-height:80%;
+                              }
+                          </style><style type="text/css">
+                              
+        
+                              .p_insertion:before {
+                                content:'click here to add';
+                                color: white;
+                              }  
+                              
+                              .p_insertion {
+                                min-height:80px !important; 
+                                height:80px !important; 
+                                border-style: none; 
+                                background-color: white !important;
+                                color: white;
+                                text-align: center; 
+                                pointer-events: none;
+                              }
+
+                              .editable:focus {
+                                outline: none !important;
+                              }
+
+                              .editable:hover {
+                                cursor: pointer;
+                              }
+
+                              .structure > * * {
+                                pointer-events: none !important;
+                              }
+
+                              .h-100 {
+                                max-height:80%;
+                              }
+                          </style><style type="text/css">
+                              
+                              .p_insertion:before {
+                                content:'click here to add';
+                                color: white;
+                              }  
+                              
+                              .p_insertion {
+                                min-height:80px !important; 
+                                height:80px !important; 
+                                border-style: none; 
+                                background-color: white !important;
+                                color: white;
+                                text-align: center; 
+                              }
+
+                              .editable:focus {
+                                outline: none !important;
+                              }
+
+                              .editable:hover {
+                                cursor: pointer;
+                              }
+
+                              .structure > * * {
+                                pointer-events: none !important;
+                              }
+
+                              .h-100 {
+                                max-height:80%;
+                              }
+                          </style><style type="text/css">
+                              
+                              .p_insertion:before {
+                                content:'click here to add';
+                                color: white;
+                              }  
+                              
+                              .p_insertion {
+                                min-height:80px !important; 
+                                height:80px !important; 
+                                border-style: none; 
+                                background-color: white !important;
+                                color: white;
+                                text-align: center; 
+                              }
+
+                              .editable:focus {
+                                outline: none !important;
+                              }
+
+                              .editable:hover {
+                                cursor: pointer;
+                              }
+
+                              .structure > * * {
+                                pointer-events: none !important;
+                              }
+
+                              .h-100 {
+                                max-height:80%;
+                              }
+                          </style><base href="https://keen-lichterman-903b62.netlify.com/"><style type="text/css">
+                              
+                              .p_insertion:before {
+                                content:'click here to add';
+                                color: white;
+                              }  
+                              
+                              .p_insertion {
+                                min-height:80px !important; 
+                                height:80px !important; 
+                                border-style: none; 
+                                background-color: white !important;
+                                color: white;
+                                text-align: center; 
+                              }
+
+                              .editable:focus {
+                                outline: none !important;
+                              }
+
+                              .editable:hover {
+                                cursor: pointer;
+                              }
+
+                              .structure > * * {
+                                pointer-events: none !important;
+                              }
+
+                              .h-100 {
+                                max-height:80%;
+                              }
+                          </style><base href="https://keen-lichterman-903b62.netlify.com/"><style type="text/css">
+                              
+                              .p_insertion:before {
+                                content:'click here to add';
+                                color: white;
+                              }  
+                              
+                              .p_insertion {
+                                min-height:80px !important; 
+                                height:80px !important; 
+                                border-style: none; 
+                                background-color: white !important;
+                                color: white;
+                                text-align: center; 
+                              }
+
+                              .editable:focus {
+                                outline: none !important;
+                              }
+
+                              .editable:hover {
+                                cursor: pointer;
+                              }
+
+                              .structure > * * {
+                                pointer-events: none !important;
+                              }
+
+                              .h-100 {
+                                max-height:80%;
+                              }
+                          </style><base href="https://keen-lichterman-903b62.netlify.com/"><style type="text/css">
+                              
+                              .p_insertion:before {
+                                content:'click here to add';
+                                color: white;
+                              }  
+                              
+                              .p_insertion {
+                                min-height:80px !important; 
+                                height:80px !important; 
+                                border-style: none; 
+                                background-color: white !important;
+                                color: white;
+                                text-align: center; 
+                              }
+
+                              .editable:focus {
+                                outline: none !important;
+                              }
+
+                              .editable:hover {
+                                cursor: pointer;
+                              }
+
+                              .structure > * * {
+                                pointer-events: none !important;
+                              }
+
+                              .h-100 {
+                                max-height:80%;
+                              }
+                          </style><base href="https://keen-lichterman-903b62.netlify.com/">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- PAGE settings -->
+  <link rel="icon" href="https://templates.pingendo.com/assets/Pingendo_favicon.ico">
+  <title>Styleguide</title>
+  <meta name="author" content="Pingendo">
+  <!-- CSS dependencies -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="aquamarine.css" type="text/css">
+  <script type="text/javascript" src="pingendo/location.js"></script>
+</head>
+
+<body class="">
+  <nav class="navbar navbar-expand-md  bg-dark navbar-dark">
+    <div class="container">
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar2SupportedContent" aria-controls="navbar2SupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse justify-content-center" id="navbar2SupportedContent">
+        <ul class="navbar-nav">
+          <li class="nav-item mx-2">
+            <a class="nav-link" href="#">Home</a>
+          </li>
+          <li class="nav-item mx-2">
+            <a class="nav-link" href="#speakers">Speakers</a>
+          </li>
+          <li class="nav-item mx-2">
+            <a class="nav-link" href="#schedule">Schedule</a>
+          </li>
+        </ul>
+        <a class="btn navbar-btn mx-2 text-white btn-outline-light" href="#register">Register now</a>
+      </div>
+    </div>
+  </nav><div class="py-5 text-center text-white h-100 align-items-center d-flex" style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(https://static.pingendo.com/cover-bubble-dark.svg);  background-position: center center, center center;  background-size: cover, cover;  background-repeat: repeat, repeat;">
+    <div class="container py-5">
+      <div class="row">
+        <div class="mx-auto col-lg-8 col-md-10">
+          <h1 class="display-3 mb-4"><b><a href="/pavimenti/esterni/">A wo</a>jjjj23232</b><b style="font-size: 1rem;">dsa2</b></h1><p class="lead mb-5"><u><a href="app.html"></a></u></p><p href="#" class="btn btn-lg btn-primary mx-1"><u><a href="app.html" class="text-light">Take me there</a></u></p><u><a href="app.html"><span style="font-size: 1rem;"> </span><span style="background-color: white;">Let's Go</span></a></u><p></p></div>
+      </div>
+    </div>
+  </div><div class="py-5 p_section" id="features">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-center editable">
+          <h2 class="pb-4">Features from the future</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="align-self-center text-md-right text-center col-lg-4 col-md-6 editable">
+          <h4 class="text-primary">Responsive design</h4>
+          <p class="mb-5">Based on fluid design principles. <br>Works with any screen resolution</p>
+          <h4 class="text-primary">Customized settings</h4>
+          <p class="mb-5">Choose settings depending on the criteria you value the most. With no limits.</p>
+          <h4 class="text-primary">Connect</h4>
+          <p class="mb-5">In-app chat panel 24/7 active. <br>The support you need, right there.</p>
+        </div>
+        <div class="my-3 col-md-4 d-none d-lg-block"> <img class="img-fluid d-block mx-auto animate-in-down animate-in-done editable" src="/assets/styleguide/cover_1.jpg" width="300"> </div>
+        <div class="align-self-center text-md-left text-center col-lg-4 col-md-6 editable">
+          <h4 class="text-primary">Battery-friendly</h4>
+          <p class="mb-5">Non consuming background operation for longer mobile life</p>
+          <h4 class="text-primary">Multilayers</h4>
+          <p class="mb-5">Work simultaneously on different panels with the switcher</p>
+          <h4 class="text-primary">Share the love</h4>
+          <p class="mb-5">Help us spreading the word. <br>Tell your friends with just one-click</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  <pingendo onclick="window.open('https://pingendo.com/', '_blank')" style="cursor:pointer;position: fixed;bottom: 20px;right:20px;padding:4px;background-color: #00b0eb;border-radius: 8px; width:220px;display:flex;flex-direction:row;align-items:center;justify-content:center;font-size:14px;color:white">Made with Pingendo Free&nbsp;&nbsp;<img src="https://pingendo.com/site-assets/Pingendo_logo_big.png" class="d-block" alt="Pingendo logo" height="16"></pingendo>
+
+
+</body></html>
