@@ -1,7 +1,43 @@
-<!DOCTYPE html>
-<html>
+<html><head><style type="text/css">
+                              
+        
+                              .p_insertion:before {
+                                content:'click here to add';
+                                color: white;
+                              }  
+                              
+                              .p_insertion {
+                                min-height:80px !important; 
+                                height:80px !important; 
+                                border-style: none; 
+                                background-color: white !important;
+                                color: white;
+                                text-align: center; 
+                                pointer-events: none;
+                              }
 
-<head>
+                              .editable:focus {
+                                outline: none !important;
+                              }
+
+                              .editable:hover {
+                                cursor: pointer;
+                              }
+
+                              .structure > * * {
+                                pointer-events: none !important;
+                              }
+
+                              .h-100 {
+                                max-height:80%;
+                              }
+
+                              div:empty {
+                                min-width: 100%;
+                                min-height: 40px;
+                                background: #aaa;
+                              }
+                          </style>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
@@ -27,10 +63,10 @@
   <div class="py-5 text-white h-100 align-items-center d-flex text-left" style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(https://static.pingendo.com/cover-bubble-dark.svg);  background-position: center center, center center;  background-size: cover, cover;  background-repeat: repeat, repeat;">
     <div class="container py-5">
       <div class="row">
-        <div class="mx-auto col-md-12 col-lg-10">
-          <h1 class="display-3 mb-4">A dead simple builder<br>for JAMStack websites<br></h1>
-          <p class="lead mb-5">A single modern platform for designers, digital marketers and developers.</p> <a href="#" class="btn btn-lg btn-primary mx-1">Launch a wesbite</a>
-        </div>
+        <div class="mx-auto col-md-12 col-lg-10"><div>
+          </div><h1 class="display-3 mb-4">A dead simple builder<br>for JAMStack w</h1><div></div><div>ebsites<br></div><div>
+          </div><p class="lead mb-5">A single modern platform for designers, digital marketers and developers.</p><div> <a href="#" class="btn btn-lg btn-primary mx-1">Launch a wesbite</a>
+        </div></div>
       </div>
     </div>
   </div>
@@ -47,15 +83,15 @@
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id velit sagittis, tempor quam sit amet, congue odio.&nbsp;</p>
         </div>
         <div class="col-md-3 col-6 p-2"> <i class="d-block fa fa-stop-circle-o fa-3x mb-2 text-muted"></i>
-          <h4 contenteditable="true"><b>Create and edit content</b></h4>
+          <h4><b>Create and edit content</b></h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id velit sagittis, tempor quam sit amet, congue odio. </p>
         </div>
         <div class="col-md-3 col-6 p-2"> <i class="d-block fa fa-circle-o fa-3x mb-2 text-muted"></i>
-          <h4 contenteditable="true"> <b>Build and extend</b><br></h4>
+          <h4> <b>Build and extend</b><br></h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id velit sagittis, tempor quam sit amet, congue odio.&nbsp;</p>
         </div>
         <div class="col-md-3 col-6 p-2"> <i class="d-block fa fa-circle-o fa-3x mb-2 text-muted"></i>
-          <h4 contenteditable="true"> <b>Deploy</b></h4>
+          <h4> <b>Deploy</b></h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id velit sagittis, tempor quam sit amet, congue odio.&nbsp;</p>
         </div>
       </div>
@@ -79,7 +115,7 @@
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id velit sagittis, tempor quam sit amet, congue odio.&nbsp;</p>
         </div>
         <div class="col-md-4 col-6 p-4"> <i class="d-block fa fa-circle-o fa-3x mb-2 text-muted"></i>
-          <h4 contenteditable="true"> <b>Developers</b></h4>
+          <h4> <b>Developers</b></h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id velit sagittis, tempor quam sit amet, congue odio.&nbsp;</p>
         </div>
       </div>
@@ -144,7 +180,7 @@
     <div class="container">
       <div class="row">
         <div class="px-md-5 p-3 d-flex flex-column align-items-start justify-content-center col-lg-8">
-          <h1 contenteditable="true"><b>The past vs the future</b></h1>
+          <h1><b>The past vs the future</b></h1>
           <p class="mb-3 lead">With traditional CMSs, on page load, content is queried, generated server-side, and then sent to the user.&nbsp;<br>With a JAMstack, the heavy lifting happens during the build process itself, so the page is already generated on load. Since there isn’t any back-and-forth with a server, sites are easier to deploy, their performance improves, and many of the security risks and maintenance tasks associated with dynamic sites are eliminated.<br>&nbsp;A JAMstack also allows us to decouple our backend from our frontend, giving us more options to curate the correct architecture for clients.</p>
         </div>
         <div class="col-lg-4" style="	background-image: url(&quot;https://milissalauren.files.wordpress.com/2018/08/stegosaurus.png?w=660&quot;);	background-position: center center;	background-size: 100%;	background-repeat: no-repeat;"></div>
@@ -172,6 +208,6 @@
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-</body>
 
-</html>
+
+</body></html>
