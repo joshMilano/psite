@@ -1,0 +1,42 @@
+Arguments: 
+  /usr/local/bin/node /Users/gio/.npm-packages/bin/yarn add pi-gen
+
+PATH: 
+  /Library/Frameworks/Python.framework/Versions/3.5/bin:/Users/gio/.npm-packages/bin:/Users/gio/.rvm/gems/ruby-2.4.0/bin:/Users/gio/.rvm/gems/ruby-2.4.0@global/bin:/Users/gio/.rvm/rubies/ruby-2.4.0/bin:/opt/local/bin:/opt/local/sbin:/usr/local/heroku/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/Users/gio/wine-1.6.2:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/share/dotnet:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/opt/ImageMagick/bin:/usr/local/deployd/bin:/usr/bin/git:/Users/gio/.rvm/bin
+
+Yarn version: 
+  1.9.4
+
+Node version: 
+  10.14.2
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/gio/git/psite/package.json: Unexpected token / in JSON at position 231
+      at JSON.parse (<anonymous>)
+      at /Users/gio/.npm-packages/lib/node_modules/yarn/lib/cli.js:1130:59
+      at Generator.next (<anonymous>)
+      at step (/Users/gio/.npm-packages/lib/node_modules/yarn/lib/cli.js:92:30)
+      at /Users/gio/.npm-packages/lib/node_modules/yarn/lib/cli.js:103:13
+
+npm manifest: 
+  {
+    "name": "aliquo",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/joshMilano/psite.git",
+    "author": "GiorgioPingendo <giorgio.seregni@pingendo.com>",
+    "license": "MIT",
+    "dependencies": {
+      // "netlify-cms": "^2.8.0",
+      "pi-gen": "^1.0.24"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
