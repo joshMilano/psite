@@ -71,8 +71,8 @@
     tslib "^1"
 
 "@oclif/command@^1", "@oclif/command@^1.5.1", "@oclif/command@^1.5.10", "@oclif/command@^1.5.13", "@oclif/command@^1.5.3", "@oclif/command@^1.5.8":
-  version "1.5.18"
-  resolved "https://registry.yarnpkg.com/@oclif/command/-/command-1.5.18.tgz#57125b501fafa155ad280bf8dc9f36a911c44f11"
+  version "1.5.19"
+  resolved "https://registry.yarnpkg.com/@oclif/command/-/command-1.5.19.tgz#13f472450eb83bd6c6871a164c03eadb5e1a07ed"
   dependencies:
     "@oclif/config" "^1"
     "@oclif/errors" "^1.2.2"
@@ -4521,8 +4521,8 @@ performance-now@^2.1.0:
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-2.1.0.tgz#6309f4e0e5fa913ec1c69307ae364b4b377c9e7b"
 
 pi-gen@*:
-  version "1.0.36"
-  resolved "https://registry.yarnpkg.com/pi-gen/-/pi-gen-1.0.36.tgz#6a18c2b4c15ceecee8ef1fde3fe67d40f9a3c590"
+  version "1.0.37"
+  resolved "https://registry.yarnpkg.com/pi-gen/-/pi-gen-1.0.37.tgz#2ec47a19b5d960a400fb61809df453a141d029df"
   dependencies:
     "@oclif/command" "^1"
     "@oclif/config" "^1"
