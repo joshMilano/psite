@@ -1,4 +1,4 @@
-/0.worker.js  https://localhost:4200/0.worker.js 200
-/worker.js  https://localhost:4200/0.worker.js 200
+/0.worker.js  https://localhost:4200/0.worker.js 301
+/worker.js  https://localhost:4200/0.worker.js 301
 /pingendo/*  /pingendo/index.html 200 
 
