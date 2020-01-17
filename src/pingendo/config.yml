@@ -1,4 +1,4 @@
-index_path: src/test_page_one.html"
+index_path: "src/test_page_one.html"
 sources_path : "src/"
 netlify_site_name : keen-lichterman-903b62
 production_branch : master
