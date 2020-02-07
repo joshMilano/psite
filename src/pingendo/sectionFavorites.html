@@ -1,7 +1,54 @@
 <!DOCTYPE html><html><head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1"> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"> <link rel="stylesheet" href="theme.css" type="text/css" data-theme="">
   <link rel="stylesheet" href="theme.css" type="text/css" data-theme="">
   <link rel="stylesheet" href="https://pingendo5.netlify.com/pingendo/static/4.3.1/theme.css" type="text/css">
-</head><body><div class="py-5 text-center">
+</head><body>
+
+<style style="background-color: rgb(255, 255, 255);">
+    body {
+      column-count: 2;
+      column-gap: 0;
+      counter-reset: item-counter;
+      width: 100%;
+      max-width: none !important;
+      height: auto;
+      background: #222 !important;
+    }
+    
+    html, body {
+      width: 2500px;
+    }
+
+
+    html {
+    }
+
+    body > * {
+      box-sizing: border-box;
+      break-inside: avoid;
+      padding: 10px;
+      counter-increment: item-counter;
+      pointer-events: all;
+    }
+
+    body > * {
+      outline: 1px solid black !important;
+      transform: scale(0.92) !important;
+      transform-origin: center !important;
+      max-heght: 600px !important;
+      min-height: auto !important;
+      position: relative !important;
+    }
+
+    body > div:hover {
+      border: 1px solid white;
+      }
+
+    body > div  * {
+      pointer-events: none !important;
+    }
+    </style>
+    
+  <div class="py-5 text-center">
     <div class="container">
       <div class="row">
         <div class="col-md-8 mx-auto">
