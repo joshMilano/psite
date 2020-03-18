@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Graffiti",
+    "price": 25,
+    "highlight": true,
+    "thumbnail": "/assets/img/9.jpg",
+    "description": "Describe your graffiti.",
+    "tags": ["Trend"]
+  },
+  {
+    "title": "yo",
+    "price": 25,
+    "highlight": true,
+    "thumbnail": "/assets/img/9.jpg",
+    "description": "Describe your yo.",
+    "tags": ["Trend"]
+  }
+]

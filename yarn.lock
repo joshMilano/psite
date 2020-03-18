@@ -1351,7 +1351,7 @@ debug@4.1.1, debug@^4.1.0, debug@^4.1.1:
   dependencies:
     ms "^2.1.1"
 
-debuglog@*, debuglog@^1.0.1:
+debuglog@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/debuglog/-/debuglog-1.0.1.tgz#aa24ffb9ac3df9a2351837cfb2d279360cd78492"
 
@@ -2611,7 +2611,7 @@ import-lazy@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/import-lazy/-/import-lazy-2.1.0.tgz#05698e3d45c88e8d7e9d92cb0584e77f096f3e43"
 
-imurmurhash@*, imurmurhash@^0.1.4:
+imurmurhash@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/imurmurhash/-/imurmurhash-0.1.4.tgz#9218b9b2b928a238b13dc4fb6b6d576f231453ea"
 
@@ -3303,10 +3303,6 @@ lockfile@^1.0.4:
   dependencies:
     signal-exit "^3.0.2"
 
-lodash._baseindexof@*:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/lodash._baseindexof/-/lodash._baseindexof-3.1.0.tgz#fe52b53a1c6761e42618d654e4a25789ed61822c"
-
 lodash._baseuniq@~4.6.0:
   version "4.6.0"
   resolved "https://registry.yarnpkg.com/lodash._baseuniq/-/lodash._baseuniq-4.6.0.tgz#0ebb44e456814af7905c6212fa2c9b2d51b841e8"
@@ -3314,27 +3310,9 @@ lodash._baseuniq@~4.6.0:
     lodash._createset "~4.0.0"
     lodash._root "~3.0.0"
 
-lodash._bindcallback@*:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/lodash._bindcallback/-/lodash._bindcallback-3.0.1.tgz#e531c27644cf8b57a99e17ed95b35c748789392e"
-
-lodash._cacheindexof@*:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/lodash._cacheindexof/-/lodash._cacheindexof-3.0.2.tgz#3dc69ac82498d2ee5e3ce56091bafd2adc7bde92"
-
-lodash._createcache@*:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/lodash._createcache/-/lodash._createcache-3.1.2.tgz#56d6a064017625e79ebca6b8018e17440bdcf093"
-  dependencies:
-    lodash._getnative "^3.0.0"
-
 lodash._createset@~4.0.0:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/lodash._createset/-/lodash._createset-4.0.3.tgz#0f4659fbb09d75194fa9e2b88a6644d363c9fe26"
-
-lodash._getnative@*, lodash._getnative@^3.0.0:
-  version "3.9.1"
-  resolved "https://registry.yarnpkg.com/lodash._getnative/-/lodash._getnative-3.9.1.tgz#570bc7dede46d61cdcde687d65d3eecbaa3aaff5"
 
 lodash._reinterpolate@^3.0.0:
   version "3.0.0"
@@ -3351,10 +3329,6 @@ lodash.clonedeep@^4.5.0, lodash.clonedeep@~4.5.0:
 lodash.isfinite@^3.3.2:
   version "3.3.2"
   resolved "https://registry.yarnpkg.com/lodash.isfinite/-/lodash.isfinite-3.3.2.tgz#fb89b65a9a80281833f0b7478b3a5104f898ebb3"
-
-lodash.restparam@*:
-  version "3.6.1"
-  resolved "https://registry.yarnpkg.com/lodash.restparam/-/lodash.restparam-3.6.1.tgz#936a4e309ef330a7645ed4145986c85ae5b20805"
 
 lodash.template@^4.4.0:
   version "4.5.0"
@@ -4520,9 +4494,10 @@ performance-now@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-2.1.0.tgz#6309f4e0e5fa913ec1c69307ae364b4b377c9e7b"
 
-pi-gen@*:
-  version "1.0.37"
-  resolved "https://registry.yarnpkg.com/pi-gen/-/pi-gen-1.0.37.tgz#2ec47a19b5d960a400fb61809df453a141d029df"
+pi-gen@^1.0.42:
+  version "1.0.42"
+  resolved "https://registry.yarnpkg.com/pi-gen/-/pi-gen-1.0.42.tgz#d792eb6e0aa08a985762eea78aaf119745282895"
+  integrity sha512-Mh+qEI3RVAFnX/jmQg3zGyK5dkQxfbToT4FhKrNWvGeqnQpERVYqW9esmtDX7aHhoB0Igo1XfmFuYpy9eMi5tQ==
   dependencies:
     "@oclif/command" "^1"
     "@oclif/config" "^1"
@@ -4541,14 +4516,15 @@ pi-gen@*:
     node-sass "^4.11.0"
     npm "^6.8.0"
     oclif "^1.12.10"
-    pi-template "2.4.8"
+    pi-template "2.4.11"
     shelljs "^0.8.3"
     tslib "^1"
     walk-sync "^1.1.3"
 
-pi-template@2.4.8:
-  version "2.4.8"
-  resolved "https://registry.yarnpkg.com/pi-template/-/pi-template-2.4.8.tgz#666b34503588e7727fea303f13359f59676217a4"
+pi-template@2.4.11:
+  version "2.4.11"
+  resolved "https://registry.yarnpkg.com/pi-template/-/pi-template-2.4.11.tgz#3c17818def528167968a9f758471b8f4a03bf7fa"
+  integrity sha512-yLj4BrLWDy1xNYkehpwygaB8zW9eExX1PT49u/5nkj8HqvGEzypBY7I901t3NhqEH1oQOVx2+MSCj8MCb6wzCg==
   dependencies:
     cheerio "^1.0.0-rc.2"
     js-template "~0.1.4"

@@ -6,6 +6,6 @@
   "author": "GiorgioPingendo <giorgio.seregni@pingendo.com>",
   "license": "MIT",
   "dependencies": {
-    "pi-gen": "*"
+    "pi-gen": "^1.0.42"
   }
 }
